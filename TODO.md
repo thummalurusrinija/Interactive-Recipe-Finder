@@ -1,0 +1,7 @@
+- [x] Modify recipe.html to vanilla HTML/CSS/JS
+  - [x] Replace React code with HTML structure (DOCTYPE, head, body)
+  - [x] Add CSS in <style> tag for styling
+  - [x] Add JavaScript in <script> tag for functionality
+  - [x] Implement search functionality with Spoonacular API
+  - [x] Handle API key (prompt or placeholder)
+- [x] Test by opening in browser
