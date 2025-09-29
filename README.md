@@ -19,7 +19,7 @@ A simple and interactive web application that helps users discover delicious rec
 ## Setup Instructions
 
 1. **Clone or Download**: Download the project files to your local machine
-2. **Open in Browser**: Simply open `recipe.html` in your web browser
+2. **Open in Browser**: Simply open `index.html` in your web browser
 3. **No additional setup required** - all dependencies are included in the single HTML file
 
 ## Usage
@@ -39,7 +39,7 @@ A simple and interactive web application that helps users discover delicious rec
 The application currently uses a Spoonacular API key that's hardcoded in the JavaScript. For production use or if you encounter API limits:
 
 1. Sign up for a free API key at [Spoonacular API](https://spoonacular.com/food-api)
-2. Replace the `apiKey` variable in the `<script>` section of `recipe.html` with your own key
+2. Replace the `apiKey` variable in the `<script>` section of `index.html` with your own key
 
 ```javascript
 const apiKey = 'your_api_key_here';
@@ -49,7 +49,7 @@ const apiKey = 'your_api_key_here';
 
 ```
 Interactive Recipe Finder/
-├── recipe.html          # Main application file (HTML, CSS, JS)
+├── index.html          # Main application file (HTML, CSS, JS)
 ├── TODO.md             # Project completion checklist
 └── README.md           # This file
 ```
